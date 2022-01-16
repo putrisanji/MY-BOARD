@@ -3,7 +3,7 @@ import "../sass/Header.scss"
 const Header = ()=>{
     return(
         <div className="header">
-            <h1>Kanban board</h1>
+            <h1>MY BOARD</h1>
         </div>
         
     )
